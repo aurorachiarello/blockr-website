@@ -1,0 +1,41 @@
+html{
+    background-image: url('img/blockr.png');
+    background-repeat: repeat;
+} 
+
+.logo{
+	text-align: center;
+	padding-top: 3%;
+}
+
+p{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
+    color: #233948;
+    margin-top: 10px;
+}
+
+.developer p a{
+    font-family: 'Pacifico', cursive;
+    font-size: 160%;
+    line-height: 90%;
+    color: #233948;
+    text-decoration: none;
+}
+
+.developer p a:hover{
+    text-decoration: none;
+    color: #1e4a53;
+    opacity:.7;
+}
+
+.appstore a:hover{
+	opacity:.7;
+}
+
+.video{
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+
